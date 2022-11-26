@@ -11,6 +11,8 @@
 		698F534429323FBC0007CA94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F534329323FBC0007CA94 /* ContentView.swift */; };
 		698F534629323FBD0007CA94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 698F534529323FBD0007CA94 /* Assets.xcassets */; };
 		698F534A29323FBD0007CA94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 698F534929323FBD0007CA94 /* Preview Assets.xcassets */; };
+		698F5353293243D10007CA94 /* TextComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5352293243D10007CA94 /* TextComponent.swift */; };
+		698F5357293246C50007CA94 /* ShapesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5356293246C50007CA94 /* ShapesComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		698F534529323FBD0007CA94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUIComponents.entitlements; sourceTree = "<group>"; };
 		698F534929323FBD0007CA94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		698F5352293243D10007CA94 /* TextComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponent.swift; sourceTree = "<group>"; };
+		698F5356293246C50007CA94 /* ShapesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				698F534129323FBC0007CA94 /* SwiftUIComponentsApp.swift */,
 				698F534329323FBC0007CA94 /* ContentView.swift */,
+				698F5352293243D10007CA94 /* TextComponent.swift */,
+				698F5356293246C50007CA94 /* ShapesComponent.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -140,7 +146,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				698F534429323FBC0007CA94 /* ContentView.swift in Sources */,
+				698F5353293243D10007CA94 /* TextComponent.swift in Sources */,
 				698F534229323FBC0007CA94 /* SwiftUIComponentsApp.swift in Sources */,
+				698F5357293246C50007CA94 /* ShapesComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
