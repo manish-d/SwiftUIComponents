@@ -15,6 +15,7 @@
 		698F5357293246C50007CA94 /* ShapesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5356293246C50007CA94 /* ShapesComponent.swift */; };
 		698F535929324A480007CA94 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F535829324A480007CA94 /* Colors.swift */; };
 		698F535B29324F350007CA94 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F535A29324F350007CA94 /* Gradients.swift */; };
+		698F535D2932532A0007CA94 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F535C2932532A0007CA94 /* Icons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		698F5356293246C50007CA94 /* ShapesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesComponent.swift; sourceTree = "<group>"; };
 		698F535829324A480007CA94 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		698F535A29324F350007CA94 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
+		698F535C2932532A0007CA94 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				698F5356293246C50007CA94 /* ShapesComponent.swift */,
 				698F535829324A480007CA94 /* Colors.swift */,
 				698F535A29324F350007CA94 /* Gradients.swift */,
+				698F535C2932532A0007CA94 /* Icons.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				698F535D2932532A0007CA94 /* Icons.swift in Sources */,
 				698F534429323FBC0007CA94 /* ContentView.swift in Sources */,
 				698F535929324A480007CA94 /* Colors.swift in Sources */,
 				698F5353293243D10007CA94 /* TextComponent.swift in Sources */,
