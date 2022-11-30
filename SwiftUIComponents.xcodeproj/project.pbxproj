@@ -25,6 +25,7 @@
 		698F536B293725700007CA94 /* InitsAndEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F536A293725700007CA94 /* InitsAndEnums.swift */; };
 		698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F536C29372B930007CA94 /* ForEachStatement.swift */; };
 		698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537029372E7F0007CA94 /* ScrollViews.swift */; };
+		698F5373293735710007CA94 /* Grids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5372293735710007CA94 /* Grids.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		698F536A293725700007CA94 /* InitsAndEnums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitsAndEnums.swift; sourceTree = "<group>"; };
 		698F536C29372B930007CA94 /* ForEachStatement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachStatement.swift; sourceTree = "<group>"; };
 		698F537029372E7F0007CA94 /* ScrollViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViews.swift; sourceTree = "<group>"; };
+		698F5372293735710007CA94 /* Grids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grids.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				698F536A293725700007CA94 /* InitsAndEnums.swift */,
 				698F536C29372B930007CA94 /* ForEachStatement.swift */,
 				698F537029372E7F0007CA94 /* ScrollViews.swift */,
+				698F5372293735710007CA94 /* Grids.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				698F535D2932532A0007CA94 /* Icons.swift in Sources */,
+				698F5373293735710007CA94 /* Grids.swift in Sources */,
 				698F534429323FBC0007CA94 /* ContentView.swift in Sources */,
 				698F53652933F0870007CA94 /* Stacks.swift in Sources */,
 				698F53632933E4F10007CA94 /* BackgroundsAndOverlays.swift in Sources */,
