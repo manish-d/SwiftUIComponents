@@ -20,6 +20,7 @@
 		698F53612933DF9E0007CA94 /* Frames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F53602933DF9E0007CA94 /* Frames.swift */; };
 		698F53632933E4F10007CA94 /* BackgroundsAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F53622933E4F10007CA94 /* BackgroundsAndOverlays.swift */; };
 		698F53652933F0870007CA94 /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F53642933F0870007CA94 /* Stacks.swift */; };
+		698F53672933FA160007CA94 /* Paddings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F53662933FA160007CA94 /* Paddings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		698F53602933DF9E0007CA94 /* Frames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frames.swift; sourceTree = "<group>"; };
 		698F53622933E4F10007CA94 /* BackgroundsAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlays.swift; sourceTree = "<group>"; };
 		698F53642933F0870007CA94 /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
+		698F53662933FA160007CA94 /* Paddings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paddings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				698F53602933DF9E0007CA94 /* Frames.swift */,
 				698F53622933E4F10007CA94 /* BackgroundsAndOverlays.swift */,
 				698F53642933F0870007CA94 /* Stacks.swift */,
+				698F53662933FA160007CA94 /* Paddings.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -171,6 +174,7 @@
 				698F53652933F0870007CA94 /* Stacks.swift in Sources */,
 				698F53632933E4F10007CA94 /* BackgroundsAndOverlays.swift in Sources */,
 				698F535929324A480007CA94 /* Colors.swift in Sources */,
+				698F53672933FA160007CA94 /* Paddings.swift in Sources */,
 				698F5353293243D10007CA94 /* TextComponent.swift in Sources */,
 				698F534229323FBC0007CA94 /* SwiftUIComponentsApp.swift in Sources */,
 				698F53612933DF9E0007CA94 /* Frames.swift in Sources */,
