@@ -24,6 +24,7 @@
 		698F5369293720A60007CA94 /* Spacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5368293720A60007CA94 /* Spacers.swift */; };
 		698F536B293725700007CA94 /* InitsAndEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F536A293725700007CA94 /* InitsAndEnums.swift */; };
 		698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F536C29372B930007CA94 /* ForEachStatement.swift */; };
+		698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537029372E7F0007CA94 /* ScrollViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		698F5368293720A60007CA94 /* Spacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacers.swift; sourceTree = "<group>"; };
 		698F536A293725700007CA94 /* InitsAndEnums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitsAndEnums.swift; sourceTree = "<group>"; };
 		698F536C29372B930007CA94 /* ForEachStatement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachStatement.swift; sourceTree = "<group>"; };
+		698F537029372E7F0007CA94 /* ScrollViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				698F5368293720A60007CA94 /* Spacers.swift */,
 				698F536A293725700007CA94 /* InitsAndEnums.swift */,
 				698F536C29372B930007CA94 /* ForEachStatement.swift */,
+				698F537029372E7F0007CA94 /* ScrollViews.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -187,6 +190,7 @@
 				698F5353293243D10007CA94 /* TextComponent.swift in Sources */,
 				698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */,
 				698F534229323FBC0007CA94 /* SwiftUIComponentsApp.swift in Sources */,
+				698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */,
 				698F536B293725700007CA94 /* InitsAndEnums.swift in Sources */,
 				698F53612933DF9E0007CA94 /* Frames.swift in Sources */,
 				698F535F293255A10007CA94 /* Images.swift in Sources */,
