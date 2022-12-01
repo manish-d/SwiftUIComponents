@@ -27,6 +27,7 @@
 		698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537029372E7F0007CA94 /* ScrollViews.swift */; };
 		698F5373293735710007CA94 /* Grids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5372293735710007CA94 /* Grids.swift */; };
 		698F5375293870390007CA94 /* SafeAreas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5374293870390007CA94 /* SafeAreas.swift */; };
+		698F5377293877FA0007CA94 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5376293877FA0007CA94 /* Buttons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		698F537029372E7F0007CA94 /* ScrollViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViews.swift; sourceTree = "<group>"; };
 		698F5372293735710007CA94 /* Grids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grids.swift; sourceTree = "<group>"; };
 		698F5374293870390007CA94 /* SafeAreas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreas.swift; sourceTree = "<group>"; };
+		698F5376293877FA0007CA94 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				698F537029372E7F0007CA94 /* ScrollViews.swift */,
 				698F5372293735710007CA94 /* Grids.swift */,
 				698F5374293870390007CA94 /* SafeAreas.swift */,
+				698F5376293877FA0007CA94 /* Buttons.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -203,6 +206,7 @@
 				698F53612933DF9E0007CA94 /* Frames.swift in Sources */,
 				698F535F293255A10007CA94 /* Images.swift in Sources */,
 				698F5357293246C50007CA94 /* ShapesComponent.swift in Sources */,
+				698F5377293877FA0007CA94 /* Buttons.swift in Sources */,
 				698F535B29324F350007CA94 /* Gradients.swift in Sources */,
 				698F5369293720A60007CA94 /* Spacers.swift in Sources */,
 			);
