@@ -31,6 +31,7 @@
 		698F537929387D2E0007CA94 /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537829387D2E0007CA94 /* States.swift */; };
 		698F537B293880900007CA94 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537A293880900007CA94 /* ExtractedFunctions.swift */; };
 		698F537D293883600007CA94 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537C293883600007CA94 /* ExtractSubviews.swift */; };
+		698F537F293885FA0007CA94 /* Bindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537E293885FA0007CA94 /* Bindings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		698F537829387D2E0007CA94 /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
 		698F537A293880900007CA94 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		698F537C293883600007CA94 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
+		698F537E293885FA0007CA94 /* Bindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bindings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				698F537829387D2E0007CA94 /* States.swift */,
 				698F537A293880900007CA94 /* ExtractedFunctions.swift */,
 				698F537C293883600007CA94 /* ExtractSubviews.swift */,
+				698F537E293885FA0007CA94 /* Bindings.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -203,6 +206,7 @@
 				698F5373293735710007CA94 /* Grids.swift in Sources */,
 				698F534429323FBC0007CA94 /* ContentView.swift in Sources */,
 				698F537929387D2E0007CA94 /* States.swift in Sources */,
+				698F537F293885FA0007CA94 /* Bindings.swift in Sources */,
 				698F53652933F0870007CA94 /* Stacks.swift in Sources */,
 				698F53632933E4F10007CA94 /* BackgroundsAndOverlays.swift in Sources */,
 				698F535929324A480007CA94 /* Colors.swift in Sources */,
