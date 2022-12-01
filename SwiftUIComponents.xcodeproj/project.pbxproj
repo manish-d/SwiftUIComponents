@@ -29,6 +29,7 @@
 		698F5375293870390007CA94 /* SafeAreas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5374293870390007CA94 /* SafeAreas.swift */; };
 		698F5377293877FA0007CA94 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5376293877FA0007CA94 /* Buttons.swift */; };
 		698F537929387D2E0007CA94 /* States.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537829387D2E0007CA94 /* States.swift */; };
+		698F537B293880900007CA94 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537A293880900007CA94 /* ExtractedFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		698F5374293870390007CA94 /* SafeAreas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreas.swift; sourceTree = "<group>"; };
 		698F5376293877FA0007CA94 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		698F537829387D2E0007CA94 /* States.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = States.swift; sourceTree = "<group>"; };
+		698F537A293880900007CA94 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				698F5374293870390007CA94 /* SafeAreas.swift */,
 				698F5376293877FA0007CA94 /* Buttons.swift */,
 				698F537829387D2E0007CA94 /* States.swift */,
+				698F537A293880900007CA94 /* ExtractedFunctions.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -203,6 +206,7 @@
 				698F53672933FA160007CA94 /* Paddings.swift in Sources */,
 				698F5375293870390007CA94 /* SafeAreas.swift in Sources */,
 				698F5353293243D10007CA94 /* TextComponent.swift in Sources */,
+				698F537B293880900007CA94 /* ExtractedFunctions.swift in Sources */,
 				698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */,
 				698F534229323FBC0007CA94 /* SwiftUIComponentsApp.swift in Sources */,
 				698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */,
