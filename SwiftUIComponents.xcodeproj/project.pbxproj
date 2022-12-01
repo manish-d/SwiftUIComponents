@@ -26,6 +26,7 @@
 		698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F536C29372B930007CA94 /* ForEachStatement.swift */; };
 		698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537029372E7F0007CA94 /* ScrollViews.swift */; };
 		698F5373293735710007CA94 /* Grids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5372293735710007CA94 /* Grids.swift */; };
+		698F5375293870390007CA94 /* SafeAreas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F5374293870390007CA94 /* SafeAreas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		698F536C29372B930007CA94 /* ForEachStatement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachStatement.swift; sourceTree = "<group>"; };
 		698F537029372E7F0007CA94 /* ScrollViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViews.swift; sourceTree = "<group>"; };
 		698F5372293735710007CA94 /* Grids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grids.swift; sourceTree = "<group>"; };
+		698F5374293870390007CA94 /* SafeAreas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				698F536C29372B930007CA94 /* ForEachStatement.swift */,
 				698F537029372E7F0007CA94 /* ScrollViews.swift */,
 				698F5372293735710007CA94 /* Grids.swift */,
+				698F5374293870390007CA94 /* SafeAreas.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -191,6 +194,7 @@
 				698F53632933E4F10007CA94 /* BackgroundsAndOverlays.swift in Sources */,
 				698F535929324A480007CA94 /* Colors.swift in Sources */,
 				698F53672933FA160007CA94 /* Paddings.swift in Sources */,
+				698F5375293870390007CA94 /* SafeAreas.swift in Sources */,
 				698F5353293243D10007CA94 /* TextComponent.swift in Sources */,
 				698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */,
 				698F534229323FBC0007CA94 /* SwiftUIComponentsApp.swift in Sources */,
