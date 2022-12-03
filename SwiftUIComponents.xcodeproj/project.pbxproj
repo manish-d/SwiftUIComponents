@@ -32,6 +32,7 @@
 		698F537B293880900007CA94 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537A293880900007CA94 /* ExtractedFunctions.swift */; };
 		698F537D293883600007CA94 /* ExtractSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537C293883600007CA94 /* ExtractSubviews.swift */; };
 		698F537F293885FA0007CA94 /* Bindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 698F537E293885FA0007CA94 /* Bindings.swift */; };
+		69F7E2D6293B704C009754AC /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E2D5293B704C009754AC /* Animations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		698F537A293880900007CA94 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		698F537C293883600007CA94 /* ExtractSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviews.swift; sourceTree = "<group>"; };
 		698F537E293885FA0007CA94 /* Bindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bindings.swift; sourceTree = "<group>"; };
+		69F7E2D5293B704C009754AC /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				698F537A293880900007CA94 /* ExtractedFunctions.swift */,
 				698F537C293883600007CA94 /* ExtractSubviews.swift */,
 				698F537E293885FA0007CA94 /* Bindings.swift */,
+				69F7E2D5293B704C009754AC /* Animations.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -216,6 +219,7 @@
 				698F537B293880900007CA94 /* ExtractedFunctions.swift in Sources */,
 				698F537D293883600007CA94 /* ExtractSubviews.swift in Sources */,
 				698F536D29372B930007CA94 /* ForEachStatement.swift in Sources */,
+				69F7E2D6293B704C009754AC /* Animations.swift in Sources */,
 				698F534229323FBC0007CA94 /* SwiftUIComponentsApp.swift in Sources */,
 				698F537129372E7F0007CA94 /* ScrollViews.swift in Sources */,
 				698F536B293725700007CA94 /* InitsAndEnums.swift in Sources */,
