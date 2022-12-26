@@ -35,6 +35,7 @@
 		69F7E2D6293B704C009754AC /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E2D5293B704C009754AC /* Animations.swift */; };
 		69F7E2D8293B7748009754AC /* AnimationTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E2D7293B7748009754AC /* AnimationTiming.swift */; };
 		69F7E2DA293B7B3A009754AC /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E2D9293B7B3A009754AC /* Transitions.swift */; };
+		69F7E2DC293BF25A009754AC /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E2DB293BF25A009754AC /* Sheets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		69F7E2D5293B704C009754AC /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 		69F7E2D7293B7748009754AC /* AnimationTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTiming.swift; sourceTree = "<group>"; };
 		69F7E2D9293B7B3A009754AC /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
+		69F7E2DB293BF25A009754AC /* Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				69F7E2D5293B704C009754AC /* Animations.swift */,
 				69F7E2D7293B7748009754AC /* AnimationTiming.swift */,
 				69F7E2D9293B7B3A009754AC /* Transitions.swift */,
+				69F7E2DB293BF25A009754AC /* Sheets.swift */,
 				698F534529323FBD0007CA94 /* Assets.xcassets */,
 				698F534729323FBD0007CA94 /* SwiftUIComponents.entitlements */,
 				698F534829323FBD0007CA94 /* Preview Content */,
@@ -236,6 +239,7 @@
 				698F5357293246C50007CA94 /* ShapesComponent.swift in Sources */,
 				698F5377293877FA0007CA94 /* Buttons.swift in Sources */,
 				698F535B29324F350007CA94 /* Gradients.swift in Sources */,
+				69F7E2DC293BF25A009754AC /* Sheets.swift in Sources */,
 				698F5369293720A60007CA94 /* Spacers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
